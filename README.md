@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatrycjaMarek
+- 👋 Hi, I’m @Patrycja
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
